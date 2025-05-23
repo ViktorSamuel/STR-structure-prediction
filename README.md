@@ -21,7 +21,8 @@ This project introduces a novel statistical model for Short Tandem Repeat (STR) 
 Follow the [official Micromamba installation instructions](https://mamba.readthedocs.io/en/latest/installation/micromamba-installation.html) for your operating system.
 
 ### 2. Download the Reference Genome  
-Before running the analysis, you must download the **GRCh38_decoy.fa** reference genome. You can obtain it from trusted sources such as:
+Before running the analysis, you must download the **HG002_NA24385_son/
+NIST_HiSeq_HG002** reference genome. You can obtain it from trusted sources such as:
 - **UCSC Genome Browser** ([link](http://hgdownload.soe.ucsc.edu/goldenPath/hg38/bigZips/))
 - **Ensembl** ([link](https://ftp.ensembl.org/pub/release-110/fasta/homo_sapiens/dna/))
 - **Other genomic databases**
