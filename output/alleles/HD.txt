@@ -1,0 +1,2 @@
+Frequency: 0.6254, Patterns AGC[26]CGC[11]
+Frequency: 0.1936, Patterns AGC[19]CGC[11]

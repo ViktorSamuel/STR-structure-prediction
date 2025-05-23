@@ -1,0 +1,2 @@
+Frequency: 0.9656, Patterns CGG[8]
+Frequency: 0.9656, Patterns CGG[8]

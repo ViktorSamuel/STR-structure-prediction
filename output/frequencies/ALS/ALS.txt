@@ -1,0 +1,6 @@
+Frequency: 0, Patterns CGG[10]
+Frequency: 0.0098, Patterns CGG[50]
+Frequency: 0, Patterns CGG[5]
+Frequency: 0.0046, Patterns CGG[7]
+Frequency: 0.9656, Patterns CGG[8]
+Frequency: 0.02, Patterns CGG[9]
